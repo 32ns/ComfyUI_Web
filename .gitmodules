@@ -1,0 +1,3 @@
+[submodule "src/comfyui_home"]
+	path = src/comfyui_home
+	url = https://github.com/32ns/comfyui_home.git
